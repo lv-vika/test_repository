@@ -114,5 +114,6 @@ int main()
     list->addItem(list, item_two);
     list->addItem(list, item_three);
     list->print();
+    cout << "New line";
 }
 
